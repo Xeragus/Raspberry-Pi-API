@@ -29,7 +29,7 @@ $movie_img = $response->Poster;
 
     <title>Raspberry Pi App</title>
   </head>
-  <body class="bg-info">
+  <body class="bg-dark">
     
 
     <div class="container py-5">
